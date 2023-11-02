@@ -8,7 +8,7 @@ import TheHeader from "@/components/TheHeader.vue";
 <TheHeader/>
     <div class="group block mx-auto shadow-lg border m-4 mt-5 p-5 rounded-2xl ">
 
-    <div  class=" bg-blue-900 p-3 justify-between" >
+    <div  class="flex bg-blue-900 p-3 justify-between" >
         <div class="p-2 ">
           <h1 class=" text-xl text-white font-bold">Employees </h1>
         </div>
